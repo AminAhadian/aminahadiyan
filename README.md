@@ -3,10 +3,8 @@
 I'm a tech nerd 🥸
 I'm a blockchain researcher 🔗
 
-Skills: PHP | Laravel | JavaScript 
+Skills: PHP | Laravel | JavaScript | Livewire
 
-- 🔭 I’m currently working on eCommerce Project 
-- 🌱 I’m currently learning Java Script & Data Structure 
 - 👯 I’m looking to collaborate on js an laravel projects 
 - 💬 Ask me about Games and Tech 
 
